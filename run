@@ -1,0 +1,3 @@
+cmake -B Build/Debug
+cmake --build Build/Debug --config Debug --target Janus
+./Build/Debug/Debug/Janus.exe
